@@ -1,3 +1,0 @@
-<!-----ADD MONEY BALANCE------!>
-<add id = "add" class="add">
-<div class="
